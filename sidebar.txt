@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kix:home|Door43 (kix)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kix|d43-kix repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kix/archive/master.zip|d43-kix.zip]]
+
+**Recent Changes**
+{{changes>ns = kix}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kix|Ethnologue data]]
+
